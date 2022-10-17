@@ -1,0 +1,9 @@
+-users can copy styling from one object and apply it to another object or group of selected objects. Right click on the object you want to copy, and click on the object you want to change.
+
+-users can delete annotations by selecting them and pressing backspace
+
+-scaling of the viewer is corrected
+
+-multi select by holding shift and selecting objects
+
+-users must not be in draw or text mode to select objects.
